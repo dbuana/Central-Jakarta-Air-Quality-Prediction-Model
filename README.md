@@ -2,8 +2,6 @@
 
 Machine learning side project that predicts the air quality levels in the Central Jakarta area using environmental pollutant measurements. 
 
-This project explores the relationship between pollutant concentrations and the overall air quality index using regression models. 
-
 ---
 
 ## Project Overview
