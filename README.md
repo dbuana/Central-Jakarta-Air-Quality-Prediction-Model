@@ -6,8 +6,7 @@ Machine learning side project that predicts the air quality levels in the Centra
 
 ## Project Overview
 
-Air pollution is a major environmental and public health issue in many urban areas.  
-This project uses historical air quality data from DKI Jakarta to build predictive models capable of estimating the maximum air quality index value based on pollutant measurements.
+In the populated capital of Indonesia, air pollution has been a major environmental and health issue for years. This project utilizes air quality data from Central Jakarta to create a predictive model capable of estimating maximum air quality index based on the concentration of the pollutants.  
 
 The project implements two machine learning models:
 
