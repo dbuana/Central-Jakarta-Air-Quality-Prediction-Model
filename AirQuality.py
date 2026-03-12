@@ -38,7 +38,7 @@ print(f"R^2 Score: {r2:.2f}")
 rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
 rf_model.fit(X_train, y_train)
 y_pred_rf = rf_model.predict(X_test)
-mse_rf = mean_squared_error(y_pred, y_pred_rf)
+mse_rf = mean_squared_error(y_test, y_pred_rf)
 r2_rf = r2_score(y_test, y_pred_rf)
 pearson_corr = np.corrcoef(y_test, y_pred_rf)[0, 1]
 print(f"Random Forest Pearson Correlation: {pearson_corr:.2f}")
