@@ -1,12 +1,12 @@
-# Air Quality Prediction Using Machine Learning
+# Jakarta Air Quality Prediction Model
 
-Machine learning side project that predicts the air quality levels in the Central Jakarta area using environmental pollutant measurements. 
+Machine learning side project that predicts the air quality levels in the Jakarta area using environmental pollutant measurements. 
 
 ---
 
 ## Project Overview
 
-In the populated capital of Indonesia, air pollution has been a major environmental and health issue for years. This project utilizes air quality data from Central Jakarta to create a predictive model capable of estimating maximum air quality index based on the concentration of the pollutants.  
+In the populated capital of Indonesia, air pollution has been a major environmental and health issue for years. This project utilizes air quality data from Jakarta to create a predictive model capable of estimating maximum air quality index based on the concentration of the pollutants.  
 
 The project implements two machine learning models:
 
@@ -38,5 +38,4 @@ Additional variables:
 - `tanggal` (date)
 - `categori` (air quality category)
 
----
-8. **Time-Series Prediction**
+Dataset Access: https://www.kaggle.com/datasets/yogaarifin/jakarta-air-quality-data
