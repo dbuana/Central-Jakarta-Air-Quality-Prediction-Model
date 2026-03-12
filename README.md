@@ -22,7 +22,7 @@ The project implements two machine learning models:
 
 The dataset contains air quality measurements from monitoring in different times in the Central Jakarta area.
 
-Features used in the model:
+Exploratory variables:
 
 | Feature | Description |
 |------|------|
