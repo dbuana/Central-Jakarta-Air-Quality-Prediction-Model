@@ -16,13 +16,11 @@ The project implements two machine learning models:
 • Linear Regression (baseline model)  
 • Random Forest Regressor (non-linear ensemble model)
 
-The Random Forest model significantly improves predictive performance compared to the linear baseline.
-
 ---
 
 ## Dataset
 
-Dataset contains historical air quality measurements from monitoring stations in Jakarta.
+The dataset contains air quality measurements from monitoring in different times in the Central Jakarta area.
 
 Features used in the model:
 
@@ -44,16 +42,4 @@ Additional columns include:
 - `categori` (air quality category)
 
 ---
-
-## Machine Learning Pipeline
-
-The workflow implemented in this project includes:
-
-1. **Data Loading**
-2. **Data Cleaning**
-3. **Feature Selection**
-4. **Train/Test Split**
-5. **Model Training**
-6. **Model Evaluation**
-7. **Visualization**
 8. **Time-Series Prediction**
