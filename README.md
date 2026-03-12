@@ -34,7 +34,7 @@ Target variable:
 |------|------|
 | max | Maximum air quality index value |
 
-Additional columns include:
+Additional variables:
 - `tanggal` (date)
 - `categori` (air quality category)
 
